@@ -32,6 +32,21 @@ Ward {2}, protection from Aharon.
 
 Danial, Ticket Savant
 
+Legendary Creature {-} Human PM
+
+When {cardname} enters the battlefield, create two 1/1 colorless Project Manager artifact creature tokens.
+
+{2}{r}, Sacrifice an engineer: Danial ships 3 features.{flavor}O Canada!
+
+
+###
+
+Dr. Zachary Kanzler, Esq.
+
+Legendary Creature {-} Human Engineer Horror
+
 ### 
 
 Mike, Simulation Architect
+
+Legendary Creature {-} Human Engineer Cyborg

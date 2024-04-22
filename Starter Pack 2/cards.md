@@ -1,20 +1,32 @@
 
 ### Cards
 
-Nick, Consul of Innovation
+Jordan, Integration Captain
 {3}{u}
 
-Legendary Creature {-} Human Engineer CTO
+Legendary Creature {-} Human Engineer Pizza
 
 Engineers you control have hexproof and indesctructible. 
 At the end of your turn, if you deployed to production this turn, draw a card, then create a 1/1 blue QA Engineer token with vigilance.{flavor}"Ship it."
 
+
+### 
+
+Skyline, Chili Franchise
+
+
+### 
+
+Willis, Architect of Automation
+
+Legendary Creature {-} Human Engineer Hacker
+
 ###
 
-Aharon, King of the Kewp
-{4}{w}
+Robo-Rewsty
+{11}
 
-Legendary Creature {-} Human Founder Techie
+Artifact Creature {-} AI Golem
 
 {r}: Regenerate all Pods. They gain haste until end of turn.
 {1}{g}: Add {G} to your mana pool for each investor on the battlefield.
@@ -22,16 +34,12 @@ Legendary Creature {-} Human Founder Techie
 
 ###
 
-Allen, Director of Robotics
+Martyn, Mystic Manager
 
-Legendary Creature {-} Human Engineer Noble
+Legendary Creature {-} Human PM Techie
 
-Ward {2}, protection from Aharon.
+Engineers you control have indestructible.
 
 ###
 
-Danial, Ticket Savant
-
-### 
-
-Mike, Simulation Architect
+Project Manager
