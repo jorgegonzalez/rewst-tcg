@@ -1,35 +1,35 @@
-- [Cluck U Pack](./Cluck U Pack)
-  - [README](./Cluck U Pack/README.md)
-- [Images](./Images)
-  - [Colors](./Images/Colors)
-  - [Symbols](./Images/Symbols)
-    - [Common-2.png](./Images/Symbols/Common-2.png)
-    - [Mythic-2.png](./Images/Symbols/Mythic-2.png)
-    - [Rare-2.png](./Images/Symbols/Rare-2.png)
-    - [Uncommon-2.png](./Images/Symbols/Uncommon-2.png)
-    - [common.png](./Images/Symbols/common.png)
-    - [common2.png](./Images/Symbols/common2.png)
-    - [mythic2.png](./Images/Symbols/mythic2.png)
-    - [rare2.png](./Images/Symbols/rare2.png)
-    - [uncommon2.png](./Images/Symbols/uncommon2.png)
-- [README](./README.md)
-- [Starter Pack 1](./Starter Pack 1)
-  - [Aharon, King of the Kewp.png](./Starter Pack 1/Aharon, King of the Kewp.png)
-  - [Allen, Director of Robotics.png](./Starter Pack 1/Allen, Director of Robotics.png)
-  - [Danial, Ticket Savant.png](./Starter Pack 1/Danial, Ticket Savant.png)
-  - [Dr. Zachary Kanzler, Esq..png](./Starter Pack 1/Dr. Zachary Kanzler, Esq..png)
-  - [Mike, Simulation Architect.png](./Starter Pack 1/Mike, Simulation Architect.png)
-  - [Nick, Consul of Innovation.png](./Starter Pack 1/Nick, Consul of Innovation.png)
-  - [QA Engineer.png](./Starter Pack 1/QA Engineer.png)
-  - [README](./Starter Pack 1/README.md)
-- [Starter Pack 2](./Starter Pack 2)
-  - [Jordan, Integration Captain.png](./Starter Pack 2/Jordan, Integration Captain.png)
-  - [Junior PM.png](./Starter Pack 2/Junior PM.png)
-  - [Martyn, Mystic Manager.png](./Starter Pack 2/Martyn, Mystic Manager.png)
-  - [README](./Starter Pack 2/README.md)
-  - [Robo-Rewsty.png](./Starter Pack 2/Robo-Rewsty.png)
-  - [Skyline Chili Franchise.png](./Starter Pack 2/Skyline Chili Franchise.png)
-  - [The Kewp.png](./Starter Pack 2/The Kewp.png)
-  - [Willis, Architect of Automation.png](./Starter Pack 2/Willis, Architect of Automation.png)
-- [Tokens](./Tokens)
-  - [README](./Tokens/README.md)
+-%20./Cluck%20U%20Pack
+%20%20-%20./Cluck%20U%20Pack/README.md
+-%20./Images
+%20%20-%20./Images/Colors
+%20%20-%20./Images/Symbols
+%20%20%20%20-%20./Images/Symbols/Common-2.png
+%20%20%20%20-%20./Images/Symbols/Mythic-2.png
+%20%20%20%20-%20./Images/Symbols/Rare-2.png
+%20%20%20%20-%20./Images/Symbols/Uncommon-2.png
+%20%20%20%20-%20./Images/Symbols/common.png
+%20%20%20%20-%20./Images/Symbols/common2.png
+%20%20%20%20-%20./Images/Symbols/mythic2.png
+%20%20%20%20-%20./Images/Symbols/rare2.png
+%20%20%20%20-%20./Images/Symbols/uncommon2.png
+-%20./README.md
+-%20./Starter%20Pack%201
+%20%20-%20./Starter%20Pack%201/Aharon,%20King%20of%20the%20Kewp.png
+%20%20-%20./Starter%20Pack%201/Allen,%20Director%20of%20Robotics.png
+%20%20-%20./Starter%20Pack%201/Danial,%20Ticket%20Savant.png
+%20%20-%20./Starter%20Pack%201/Dr.%20Zachary%20Kanzler,%20Esq..png
+%20%20-%20./Starter%20Pack%201/Mike,%20Simulation%20Architect.png
+%20%20-%20./Starter%20Pack%201/Nick,%20Consul%20of%20Innovation.png
+%20%20-%20./Starter%20Pack%201/QA%20Engineer.png
+%20%20-%20./Starter%20Pack%201/README.md
+-%20./Starter%20Pack%202
+%20%20-%20./Starter%20Pack%202/Jordan,%20Integration%20Captain.png
+%20%20-%20./Starter%20Pack%202/Junior%20PM.png
+%20%20-%20./Starter%20Pack%202/Martyn,%20Mystic%20Manager.png
+%20%20-%20./Starter%20Pack%202/README.md
+%20%20-%20./Starter%20Pack%202/Robo-Rewsty.png
+%20%20-%20./Starter%20Pack%202/Skyline%20Chili%20Franchise.png
+%20%20-%20./Starter%20Pack%202/The%20Kewp.png
+%20%20-%20./Starter%20Pack%202/Willis,%20Architect%20of%20Automation.png
+-%20./Tokens
+%20%20-%20./Tokens/README.md
