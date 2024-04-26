@@ -26,6 +26,7 @@ jobs:
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
       with:
+        github_token: ${{ secrets.ACCESS_TOKEN }}
         author_name: Your Name
         author_email: mail@example.com
         message: 'Your commit message'
