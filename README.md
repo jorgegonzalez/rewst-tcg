@@ -1,5 +1,4 @@
 - [Cluck U Pack](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack)
-- [Images](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Images)
   - [Colors](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Images/Colors)
   - [Symbols](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Images/Symbols)
     - [Common-2.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Images/Symbols/Common-2.png)
