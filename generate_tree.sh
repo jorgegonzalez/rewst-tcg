@@ -32,6 +32,8 @@ base_url="https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main"
 markdown=$(cd "$1" && tree -f --noreport -I "README.md" -P "*.png" --charset ascii --sort=name . |
     sed \
       -e 's:.*/Images$::g' \
+      -e 's:.*/Colors$::g' \
+      -e 's:.*/Symbols$::g' \
       -e '/^$/d' \
       -e 's/`/|/g' \
       -e 's/    |/|   |/g' \
