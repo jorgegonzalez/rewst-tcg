@@ -35,10 +35,10 @@ markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=
       -e 's/    |/|   |/g' \
       -e 's/|   /  /g' \
       -e 's/|--/-/g' \
-      -e 's/\(.*\)/\1/' \
-      -e 's/ /%20/g' \
-      -e 's:- \(.*\)/\(.*\):- [\2](\1/\2):g' \
-      -e 's/\.md]/]/g' |
+      -e 's:\(.*\)/\(.*\):&:g' \  # Ensure full capture for further processing
+      -e 's:\([- \]\+\)\([^ ]\+\)/\([^ ]\+\):\1[\3](\2/\3):g' \ # Create links before replacing spaces
+      -e 's: :%20:g' \ # Replace spaces globally in the resulting Markdown link
+      -e 's/\.md\]/]/g' |  # Remove the .md extension from the display text in Markdown links
     tail -n +2)
 
 # The output is then returned with a trailing newline character.
