@@ -29,9 +29,9 @@ set -e
 # Finally, `tail -n +2` removes the first two lines of the output (a newline and the "." for the root directory).
 base_url="https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main"
 
-markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=name . |
+markdown=$(cd "$1" && tree -f --noreport -I "README.md" -P "*.png" --charset ascii --sort=name . |
     sed \
-      -e 's:.*/images$::g' \
+      -e 's:.*/image$::g' \
       -e '/^$/d' \
       -e 's/`/|/g' \
       -e 's/    |/|   |/g' \
