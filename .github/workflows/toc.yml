@@ -12,9 +12,6 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-      with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-
 
     - name: Setup environment
       uses: actions/setup-python@v2
@@ -29,8 +26,6 @@ jobs:
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
       with:
-        author_name: Your Name
-        author_email: mail@example.com
-        message: 'Your commit message'
+        message: 'Update TOC'
         add: '*.md'
 
