@@ -37,7 +37,13 @@ markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=
       -e 's/|--/-/g' \
       -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \
       -e 's/\.md]/]/g' |
+    sed -E 's:\((.*)\):("\1"):g' | # Temporary quote paths for protection
+    sed -E 's:(.*)\((.*)\):"\1(\2)":g' | # Re-add other parts of the line
+    sed 's/%20/ /g' | # Revert changes inside descriptions
+    sed 's/ /%20/g' | # Change spaces to %20
+    sed 's/"//g' |    # Remove the temporary quotes
     tail -n +2)
+
 
 # The output is then returned with a trailing newline character.
 printf "%s\n" "$markdown"
