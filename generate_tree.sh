@@ -35,7 +35,7 @@ markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=
       -e 's/    |/|   |/g' \
       -e 's/|   /  /g' \
       -e 's/|--/-/g' \
-      -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \
+      -e 's:- \(\(.*\)/\(.*\)\):- [\3](\2/\3):g' \
       -e 's/\.md]/]/g' |
     tail -n +2)
 
