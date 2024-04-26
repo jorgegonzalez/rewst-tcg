@@ -1,5 +1,8 @@
 # rewst-tcg
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## Da Rules
 
 - Each player starts with 0 features, and 0 customers.
