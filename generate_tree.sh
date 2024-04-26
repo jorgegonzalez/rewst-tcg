@@ -27,6 +27,8 @@ set -e
 # - replaces "- [baz.md](foo/bar/baz.md)" with "- [baz](foo/bar/baz.md)"
 #
 # Finally, `tail -n +2` removes the first two lines of the output (a newline and the "." for the root directory).
+base_url="https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main"
+
 markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=name . |
     sed \
       -e 's:.*/images$::g' \
@@ -37,7 +39,7 @@ markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=
       -e 's/|--/-/g' \
       -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \
       -e 's/\.md]/]/g' |
-    awk -F'\\]\\(' '{gsub(/ /, "%20", $2); print $1 "](" $2}' |
+    awk -v url="$base_url" -F'\\]\\(' '{gsub(/ /, "%20", $2); print $1 "](" url $2}' |
     tail -n +2)
 
 
