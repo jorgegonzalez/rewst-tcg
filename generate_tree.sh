@@ -27,7 +27,7 @@ set -e
 # - replaces "- [baz.md](foo/bar/baz.md)" with "- [baz](foo/bar/baz.md)"
 #
 # Finally, `tail -n +2` removes the first two lines of the output (a newline and the "." for the root directory).
-markdown=$(cd "$1" && tree -f --noreport -P "*.md" --charset ascii --sort=name . |
+markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=name . |
     sed \
       -e 's:.*/images$::g' \
       -e '/^$/d' \
