@@ -31,9 +31,9 @@ base_url="https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main"
 
 markdown=$(cd "$1" && tree -f --noreport -I "README.md" -P "*.png" --charset ascii --sort=name . |
     sed \
-      -e 's:.*/Images$::g' \
-      -e 's:.*/Colors$::g' \
-      -e 's:.*/Symbols$::g' \
+      -e '/^.\/*\/Images\/.*$/d' \  # Exclude .png files in the Images directory and its subdirectories
+      -e '/^.\/*\/Colors\/.*$/d' \  # Exclude .png files in the Colors subdirectory
+      -e '/^.\/*\/Symbols\/.*$/d' \ # Exclude .png files in the Symbols subdirectory
       -e '/^$/d' \
       -e 's/`/|/g' \
       -e 's/    |/|   |/g' \
