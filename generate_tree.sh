@@ -31,19 +31,20 @@ base_url="https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main"
 
 markdown=$(cd "$1" && tree -f --noreport -I "README.md" -P "*.png" --charset ascii --sort=name . |
     sed \
-      -e '/^.\/*\/Images\/.*$/d' \  # Exclude .png files in the Images directory and its subdirectories
-      -e '/^.\/*\/Colors\/.*$/d' \  # Exclude .png files in the Colors subdirectory
-      -e '/^.\/*\/Symbols\/.*$/d' \ # Exclude .png files in the Symbols subdirectory
-      -e '/^$/d' \
-      -e 's/`/|/g' \
-      -e 's/    |/|   |/g' \
-      -e 's/|   /  /g' \
-      -e 's/|--/-/g' \
-      -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \
-      -e 's/\.md]/]/g' |
-    sed -r 's:\(\./:(/:g' | # Replace './' with '/' directly in paths
+      -e '/\/Images\/\|^\.\/Images/d' \  # Exclude any paths that include '/Images/' or start with './Images'
+      -e '/\/Colors\//d' \              # Exclude any paths that include '/Colors/'
+      -e '/\/Symbols\//d' \             # Exclude any paths that include '/Symbols/'
+      -e '/^$/d' \                      # Remove empty lines
+      -e 's/`/|/g' \                    # Replace backticks with pipes for easier handling
+      -e 's/    |/|   |/g' \            # Adjust indentation for Markdown formatting
+      -e 's/|   /  /g' \                # Adjust spacing for Markdown list
+      -e 's/|--/-/g' \                  # Change directory tree output to Markdown list format
+      -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \  # Format as Markdown links
+      -e 's/\.md]/]/g' |                # Clean up link text
+    sed -r 's:\(\./:(/:g' |             # Replace './' with '/' directly in paths
     awk -v url="$base_url" -F'\\]\\(' '{gsub(/ /, "%20", $2); print $1 "](" url $2}' |
-    tail -n +2)
+    tail -n +2)                         # Remove the first line which is typically just a directory path
+
 
 
 # The output is then returned with a trailing newline character.
