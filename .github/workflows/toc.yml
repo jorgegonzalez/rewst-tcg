@@ -23,14 +23,6 @@ jobs:
         chmod u+x ./generate_tree.sh
         ./generate_tree.sh . > README.md
 
-    - name: Commit README
-      run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git add README.md
-        git commit -m "Automatically update README with Markdown tree" -a || echo "No changes to commit"
-        git push
-
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
       with:
