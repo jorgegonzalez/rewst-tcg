@@ -20,6 +20,7 @@ jobs:
 
     - name: Generate Markdown Tree
       run: |
+        chmod u+x ./generate_tree.sh
         ./generate_tree.sh . > README.md
 
     - name: Commit README
