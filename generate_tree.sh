@@ -39,7 +39,7 @@ markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=
       -e 's/|--/-/g' \
       -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \
       -e 's/\.md]/]/g' |
-    sed -r 's:\(\./(.*)\):(\1):g' | # Remove './' from paths
+    sed -r 's:\(\./:(/:g' | # Replace './' with '/' directly in paths
     awk -v url="$base_url" -F'\\]\\(' '{gsub(/ /, "%20", $2); print $1 "](" url $2}' |
     tail -n +2)
 
