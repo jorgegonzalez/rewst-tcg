@@ -1,7 +1,14 @@
 # rewst-tcg
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Da Rules](#da-rules)
+  - [Deploying to Production](#deploying-to-production)
+  - [Challenges](#challenges)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Da Rules
 
