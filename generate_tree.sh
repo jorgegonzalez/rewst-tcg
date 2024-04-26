@@ -37,11 +37,9 @@ markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=
       -e 's/|--/-/g' \
       -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \
       -e 's/\.md]/]/g' |
-    sed -E 's:\((.*)\):("\1"):g' | # Temporary quote paths for protection
-    sed -E 's:(.*)\((.*)\):"\1(\2)":g' | # Re-add other parts of the line
-    sed 's/%20/ /g' | # Revert changes inside descriptions
-    sed 's/ /%20/g' | # Change spaces to %20
-    sed 's/"//g' |    # Remove the temporary quotes
+    sed -r 's:\(\./(.*)\)?:(\./\1):g' | # Only match paths inside parentheses
+    sed 's/%20/ /g' | # Undo accidental space replacements outside URLs
+    awk '{ gsub(/ /, "%20", $NF); print }' | # Replace spaces only in the last field (URL)
     tail -n +2)
 
 
