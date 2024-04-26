@@ -35,9 +35,8 @@ markdown=$(cd "$1" && tree -f --noreport -P "*.md|*.png" --charset ascii --sort=
       -e 's/    |/|   |/g' \
       -e 's/|   /  /g' \
       -e 's/|--/-/g' \
-      -e 's:\(.*\)/\(.*\)$:- [\2](\1/\2):g' | # Format as Markdown links
-    sed \
-      -e 's/ /%20/g' | # Replace spaces with %20 in the entire line
+      -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \
+      -e 's/\.md]/]/g' |
     tail -n +2)
 
 # The output is then returned with a trailing newline character.
