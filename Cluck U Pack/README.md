@@ -1,10 +1,12 @@
 ###
-Professor Chow
 
-{flavor}Let me show you this magical placed called 'The Context'.
+Professor Chow
+{1}{U}{U}
 
 Legendary Creature {-} Human Wizard Professor
 
+When {cardname} enters the battlefield, return up to one other target creature to its owner’s hand.
+{t} Draw 3 cards.{flavor}"Let me show you this magical place called The Context."
 
 ### 
 
