@@ -36,4 +36,5 @@
   - [Willis, Architect of Automation.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Willis,%20Architect%20of%20Automation.png)
 - [Starter Pack 3](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203)
   - [Adam, Archmage of Automation.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20Archmage%20of%20Automation.png)
+  - [Adam, IT Apprentice.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20IT%20Apprentice.png)
 - [Tokens](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Tokens)
