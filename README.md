@@ -34,4 +34,6 @@
   - [Skyline Chili Franchise.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Skyline%20Chili%20Franchise.png)
   - [The Kewp.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/The%20Kewp.png)
   - [Willis, Architect of Automation.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Willis,%20Architect%20of%20Automation.png)
+- [Starter Pack 3](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203)
+  - [Adam, Archmage of Automation.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20Archmage%20of%20Automation.png)
 - [Tokens](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Tokens)
