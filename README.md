@@ -37,4 +37,5 @@
 - [Starter Pack 3](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203)
   - [Adam, Archmage of Automation.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20Archmage%20of%20Automation.png)
   - [Adam, IT Apprentice.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20IT%20Apprentice.png)
+  - [Glint the Unthinkable.png](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Glint%20the%20Unthinkable.png)
 - [Tokens](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Tokens)
