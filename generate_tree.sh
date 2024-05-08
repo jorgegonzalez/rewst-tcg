@@ -38,7 +38,8 @@ markdown=$(cd "$1" && tree -f --noreport -I "readme.md|Symbols" -P "*.png" --cha
       -e 's/|   /  /g' \
       -e 's/|--/-/g' \
       -e 's:- \(\(.*\)/\(.*\)\):- [\3](\1):g' \
-      -e 's/\.md]/]/g' |
+      -e 's/\.png]/]/g' |
+    grep '\.png' | # Ensure only lines with .png are included
     sed -r 's:\(\./:(/:g' | # Replace './' with '/' directly in paths
     awk -v url="$base_url" -F'\\]\\(' '{gsub(/ /, "%20", $2); print $1 "](" url $2}' |
     tail -n +2)
