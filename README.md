@@ -20,5 +20,8 @@
   - [Willis, Architect of Automation](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Willis,%20Architect%20of%20Automation.png)
   - [Adam, Archmage of Automation](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20Archmage%20of%20Automation.png)
   - [Adam, IT Apprentice](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20IT%20Apprentice.png)
+  - [Flow Conference](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Flow%20Conference.png)
   - [Glint the Unthinkable](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Glint%20the%20Unthinkable.png)
+  - [Hildebeast](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Hildebeast.png)
+  - [Level-1 Tech](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Level-1%20Tech.png)
   - [Riggs, the Stabber](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Riggs,%20the%20Stabber.png)
