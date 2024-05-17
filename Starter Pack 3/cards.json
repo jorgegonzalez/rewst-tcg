@@ -1,0 +1,95 @@
+{
+  "cards": [
+    {
+      "name": "Hildebeast",
+      "mana_cost": "{1}{R}",
+      "type": "Legendary Creature — Human Beast",
+      "power_toughness": "4/3",
+      "abilities": [
+        "Trample",
+        "Menace (This creature can't be blocked except by two or more creatures.)"
+      ],
+      "flavor_text": "In the heart of the Ontarian wilderness, the Hildebeast prowls, a guardian spirit clad in toques and Timbits.",
+      "set_code": "2024-1",
+      "artist": "MidJourney",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Flow Conference",
+      "mana_cost": "",
+      "type": "Legendary Land",
+      "abilities": [
+        "At the beginning of your upkeep, if you control three or more techs, you gain 1 customer.",
+        "{T}: Add {C}.",
+        "{4}, {T}, Sacrifice Flow Conference: Search your library for a founder card, reveal it, put it into your hand, then shuffle."
+      ],
+      "set_code": "2024-1",
+      "artist": "MidJourney",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Adam, Archmage of Automation",
+      "mana_cost": "{W}{U}{B}",
+      "type": "Legendary Creature — Human Engineer Wizard",
+      "power_toughness": "5/6",
+      "abilities": [
+        "Menace (This creature can't be blocked except by two or more creatures.)",
+        "Artifact creatures you control have menace.",
+        "At the beginning of your end step, create a 0/0 colorless AI Construct artifact creature token with \"This creature gets +1/+1 for each AI you control.\""
+      ],
+      "flavor_text": "\"How about, get fucked.\"",
+      "set_code": "2024-1",
+      "artist": "MidJourney",
+      "rarity": "Mythic Rare"
+    },
+    {
+      "name": "Riggs, the Stabber",
+      "mana_cost": "{3}{B}",
+      "type": "Legendary Creature — Human Tech",
+      "power_toughness": "4/5",
+      "abilities": [
+        "Deathtouch",
+        "Whenever Riggs, the Stabber enters the battlefield or attacks, create two 2/2 colorless Security Engineer human creature tokens."
+      ],
+      "flavor_text": "\"Would be a shame if someone enabled 2-Factor authentication ... and even more tragic if they didn't survive to appreciate it.\"",
+      "set_code": "2024-1",
+      "artist": "MidJourney",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Glint the Unthinkable",
+      "mana_cost": "{B}",
+      "type": "Instant",
+      "abilities": [
+        "Destroy target creature."
+      ],
+      "flavor_text": "In a moment of reckless curiosity, Danial, the Poutine Provocateur, dared to capture the unspeakable.",
+      "set_code": "2024-1",
+      "artist": "MidJourney",
+      "rarity": "Common"
+    },
+    {
+      "name": "Adam, IT Apprentice",
+      "mana_cost": "{1}{U}",
+      "type": "Legendary Creature — Human Tech",
+      "power_toughness": "2/2",
+      "abilities": [
+        "{T}: Draw a card, then discard a card.",
+        "Whenever you draw or discard a card, create a 1/1 blue Level-1 Tech human creature token."
+      ],
+      "flavor_text": "Confound their politics, Frustrate their knavish tricks, Oh Thee our hopes we fix, God, save us all!",
+      "set_code": "2024-1",
+      "artist": "MidJourney",
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Level-1 Tech",
+      "mana_cost": "",
+      "type": "Token Creature — Human Level-1 Tech",
+      "power_toughness": "1/1",
+      "set_code": "2024-1",
+      "artist": "MidJourney",
+      "rarity": "Token"
+    }
+  ]
+}
