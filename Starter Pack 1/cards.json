@@ -10,8 +10,6 @@
         "At the end of your turn, if you deployed to production this turn, draw a card, then create a 1/1 blue QA Engineer artifact creature token with vigilance."
       ],
       "flavor_text": "\"Ship it.\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -27,8 +25,6 @@
         "{2}{G}{W}{W}: Return target MSP from your graveyard to the battlefield."
       ],
       "flavor_text": "\"People are dying.\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -42,8 +38,6 @@
         "At the beginning of your upkeep, if you deployed to production last turn, draw a card, then add {U} to your mana pool for each engineer you control."
       ],
       "flavor_text": "\"Get fucked.\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -56,8 +50,6 @@
         "{2}{R}, Sacrifice an engineer: Danial ships 3 features."
       ],
       "flavor_text": "\"O Canada! Our home and native land! True patriot love in all of us command.\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -71,8 +63,6 @@
         "Whenever you deploy to production, put a +1/+1 counter on Dr. Zachary Kanzler, Esq., and draw a card. Whenever an opponent deploys to production, they lose 2 customers."
       ],
       "flavor_text": "\"YOU JUST GOT — ZACKED.\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -89,8 +79,6 @@
         "{G}{U}, {T}: Put two 1/1 blue QA Engineer artifact creature tokens with vigilance onto the battlefield."
       ],
       "flavor_text": "\"Get Scope. Ownership. Inspect and Simplify. Be Agile.\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -101,8 +89,6 @@
       "abilities": [
         "Vigilance"
       ],
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Token"
     }
   ]

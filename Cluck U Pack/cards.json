@@ -10,8 +10,6 @@
         "{T}: Draw 3 cards."
       ],
       "flavor_text": "\"Let me show you this magical place called The Context ...\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Rare"
     },
     {
@@ -23,8 +21,6 @@
         "{T}: Add {U} for each artifact you control."
       ],
       "flavor_text": "Graduates of Cluck University don't just follow the pecking order. They automate it.",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Rare"
     },
     {
@@ -37,8 +33,6 @@
         "Professors you control get +1/+1."
       ],
       "flavor_text": "\"Every automation starts with a single cluck ...\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Rare"
     },
     {
@@ -51,8 +45,6 @@
         "Tap an untapped artifact you control: Add {U}."
       ],
       "flavor_text": "The first step in creating a positive customer experience is to transcend the physical limitations of humanity.",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Rare"
     },
     {
@@ -64,8 +56,6 @@
         "When Father Tim enters the battlefield, you may search your graveyard, hand, and/or library for a card named Agent Smith and put it onto the battlefield. If you search your library this way, shuffle."
       ],
       "flavor_text": "He toiled through the night, sowing the open source seeds of automation.",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -77,8 +67,6 @@
         "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
       ],
       "flavor_text": "Every clone of Agent Smith is deployed with one purpose: to keep the automations flowing.",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Rare"
     },
     {
@@ -89,8 +77,6 @@
       "abilities": [
         "This creature gets +1/+1 for each AI you control."
       ],
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Token"
     }
   ]

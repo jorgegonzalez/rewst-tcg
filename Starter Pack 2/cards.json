@@ -10,8 +10,6 @@
         "Feature Deployment — Whenever another engineer you control deploys to production, Jordan, Integration Captain ships 3 features."
       ],
       "flavor_text": "He has no pizza experience.",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -22,8 +20,6 @@
         "{T}: Add {G} for each creature you control."
       ],
       "flavor_text": "\"Here hatched the first fledgling of automation. Here the last manual task will fall.\" — Aharon, King of the Kewp",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Rare"
     },
     {
@@ -36,8 +32,6 @@
         "At the beginning of your upkeep, create a 4/4 red Engine Pod artifact creature token with haste. Sacrifice it at the beginning of the next end step."
       ],
       "flavor_text": "echo 'ALL: ALL' | sudo tee /etc/hosts.deny > /dev/null",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Mythic Rare"
     },
     {
@@ -49,8 +43,6 @@
         "First strike, vigilance, trample, indestructible"
       ],
       "flavor_text": "Manual processes are for the birds.",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Rare"
     },
     {
@@ -61,8 +53,6 @@
         "Skyline Chili Franchise enters the battlefield tapped.",
         "{T}: Create a Food token."
       ],
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Common"
     },
     {
@@ -75,8 +65,6 @@
         "{1}{W}{T}: Create a 1/1 colorless Junior PM artifact creature token."
       ],
       "flavor_text": "\"For the users, by the users.\"",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Rare"
     },
     {
@@ -84,8 +72,6 @@
       "mana_cost": "",
       "type": "Token Artifact Creature — Junior PM",
       "power_toughness": "1/1",
-      "set_code": "2024-1",
-      "artist": "MidJourney",
       "rarity": "Token"
     }
   ]
