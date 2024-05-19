@@ -20,6 +20,8 @@ merge_cards() {
     done
 }
 
+rm ./cards.json
+
 # Start merging from the current directory
 merge_cards "."
 
