@@ -26,6 +26,7 @@
   - [Level-1 Tech](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Level-1%20Tech.png)
   - [Riggs, the Stabber](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Riggs,%20the%20Stabber.png)
   - [Charlie, Mob Boss](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Charlie,%20Mob%20Boss.png)
+  - [Global System Outage](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Global%20System%20Outage.png)
   - [Ashley, Director of Defense](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Ashley,%20Director%20of%20Defense.png)
   - [Cluck University North](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Cluck%20University%20North.png)
   - [Danial, Curling Champion](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Danial,%20Curling%20Champion.png)
