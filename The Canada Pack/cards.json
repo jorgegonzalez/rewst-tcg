@@ -1,0 +1,78 @@
+{
+  "cards": [
+    {
+      "name": "Ashley, Director of Defense",
+      "type": "Legendary Creature — Human CS Tech",
+      "mana_cost": "1WU",
+      "power_toughness": "2/3",
+      "abilities": [
+        "Rapid Response — You may cast this card any time you could cast an instant.",
+        "When Ashley, Director of Defense enters the battlefield, creatures you control gain indestructible until end of turn."
+      ],
+      "flavor_text": "Ah, oops. Sorry, let me fix that for you. Sorry!",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Danial, Curling Champion",
+      "type": "Legendary Creature — Human PM Athlete",
+      "mana_cost": "1R",
+      "power_toughness": "3/1",
+      "abilities": [
+        "When Danial, Curling Champion enters the battlefield, choose one —",
+        "Create a 1/1 white Sentry human creature token.",
+        "Create a Treasure token."
+      ],
+      "flavor_text": "Do you know what they call someone from Winnipeg?",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Ryan, Onboarding Specialist",
+      "type": "Legendary Creature — Human CS Tech",
+      "mana_cost": "1UU",
+      "power_toughness": "1/3",
+      "abilities": [
+        "When Ryan, Onboarding Specialist enters the battlefield, gain 1 customer.",
+        "Draw a card, then discard a card."
+      ],
+      "flavor_text": "So can I work a four-day workweek but get paid for five?",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Invoke Hospitality",
+      "type": "Sorcery",
+      "mana_cost": "1G",
+      "abilities": [
+        "Put a creature from your hand onto the battlefield."
+      ],
+      "flavor_text": "There's always room for one more, eh?",
+      "rarity": "rare"
+    },
+    {
+      "name": "Manitoban Matriarch",
+      "type": "Legendary Creature — Elder Human",
+      "mana_cost": "GWB",
+      "power_toughness": "1/1",
+      "abilities": [
+        "Whenever another creature enters the battlefield under your control, create a 1/1 white Sentry human creature token and add GWB."
+      ],
+      "flavor_text": "It was a revelation to Danial to see the vast network of connections his mom had across the province.",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Cluck University North",
+      "type": "Legendary Land",
+      "abilities": [
+        "When Cluck University North enters the battlefield, you may return a Professor card from your graveyard to your hand.",
+        "Add W."
+      ],
+      "flavor_text": "At Cluck U North, even the chickens say 'sorry' when a workflow fails.",
+      "rarity": "rare"
+    },
+    {
+      "name": "Sentry",
+      "type": "Token Creature — Human Sentry",
+      "power_toughness": "1/1",
+      "rarity": "token"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "cards": [
+    {
+      "name": "Aharon, Florida Man",
+      "type": "Legendary Creature — Human Shaman",
+      "mana_cost": "1GG",
+      "power_toughness": "3/4",
+      "abilities": [
+        "Whenever Aharon, Florida Man deploys to production, you may discard a card. If you do, create a 3/3 green Alligator creature token with trample."
+      ],
+      "flavor_text": "In Tampa's murky swamps, the elusive Florida Man is as rare a find as soft water.",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Aharon, Startup Investor",
+      "type": "Legendary Creature — Human Investor",
+      "mana_cost": "1UWG",
+      "power_toughness": "5/5",
+      "abilities": [
+        "When Aharon, Startup Investor enters the battlefield, create a 1/1 colorless human VC investor creature token.",
+        "Whenever an engineer or investor enters the battlefield, draw a card."
+      ],
+      "flavor_text": "\"Hey Nick, wanna be the CTO of my new soundboards-as-a-service company?\"",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Aharon, Unix Administrator",
+      "type": "Legendary Creature — Human Tech",
+      "mana_cost": "2UB",
+      "power_toughness": "2/4",
+      "abilities": [
+        "When Aharon, Unix Administrator enters the battlefield, look at the top three cards of your library. Put one into your hand and the rest into your graveyard."
+      ],
+      "flavor_text": "\"Hey Allen, before you start, did you consider whether we should write the workflow processing engine in Perl?\"",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Acquired Cybersecurity Startup",
+      "type": "Land",
+      "abilities": [
+        "Add C."
+      ],
+      "flavor_text": "The servers still chirp, but now it's just the echo of data long flown the coop.",
+      "rarity": "rare"
+    },
+    {
+      "name": "Drama-Free Friday",
+      "type": "Enchantment",
+      "mana_cost": "1WU",
+      "abilities": [
+        "At the beginning of your end step, if no spells were cast this turn, draw a card.",
+        "Sacrifice Drama-Free Friday: Opponents can't cast spells during their next turn."
+      ],
+      "flavor_text": "\"Save your drama for Monday, people.\"",
+      "rarity": "rare"
+    },
+    {
+      "name": "Interstate 4",
+      "type": "Legendary Land",
+      "abilities": [
+        "Interstate 4 enters the battlefield tapped.",
+        "Tap: Add R.",
+        "RR, Tap: Target creature gains haste until end of turn."
+      ],
+      "flavor_text": "\"Stay off I-4.\" —Aharon, Florida Man",
+      "rarity": "rare"
+    },
+    {
+      "name": "Alligator",
+      "type": "Token Creature — Alligator",
+      "power_toughness": "3/3",
+      "abilities": [
+        "Trample"
+      ],
+      "flavor_text": "Interior crocodile alligator\nI drive a Chevrolet movie theater",
+      "rarity": "token"
+    }
+  ]
+}
