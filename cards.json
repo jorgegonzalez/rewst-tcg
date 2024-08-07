@@ -320,6 +320,155 @@
       "type": "Token Creature — Human Level-1 Tech",
       "power_toughness": "1/1",
       "rarity": "Token"
+    },
+    {
+      "name": "Ashley, Director of Defense",
+      "type": "Legendary Creature — Human CS Tech",
+      "mana_cost": "1WU",
+      "power_toughness": "2/3",
+      "abilities": [
+        "Rapid Response — You may cast this card any time you could cast an instant.",
+        "When Ashley, Director of Defense enters the battlefield, creatures you control gain indestructible until end of turn."
+      ],
+      "flavor_text": "Ah, oops. Sorry, let me fix that for you. Sorry!",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Danial, Curling Champion",
+      "type": "Legendary Creature — Human PM Athlete",
+      "mana_cost": "1R",
+      "power_toughness": "3/1",
+      "abilities": [
+        "When Danial, Curling Champion enters the battlefield, choose one —",
+        "Create a 1/1 white Sentry human creature token.",
+        "Create a Treasure token."
+      ],
+      "flavor_text": "Do you know what they call someone from Winnipeg?",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Ryan, Onboarding Specialist",
+      "type": "Legendary Creature — Human CS Tech",
+      "mana_cost": "1UU",
+      "power_toughness": "1/3",
+      "abilities": [
+        "When Ryan, Onboarding Specialist enters the battlefield, gain 1 customer.",
+        "Draw a card, then discard a card."
+      ],
+      "flavor_text": "So can I work a four-day workweek but get paid for five?",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Invoke Hospitality",
+      "type": "Sorcery",
+      "mana_cost": "1G",
+      "abilities": [
+        "Put a creature from your hand onto the battlefield."
+      ],
+      "flavor_text": "There's always room for one more, eh?",
+      "rarity": "rare"
+    },
+    {
+      "name": "Manitoban Matriarch",
+      "type": "Legendary Creature — Elder Human",
+      "mana_cost": "GWB",
+      "power_toughness": "1/1",
+      "abilities": [
+        "Whenever another creature enters the battlefield under your control, create a 1/1 white Sentry human creature token and add GWB."
+      ],
+      "flavor_text": "It was a revelation to Danial to see the vast network of connections his mom had across the province.",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Cluck University North",
+      "type": "Legendary Land",
+      "abilities": [
+        "When Cluck University North enters the battlefield, you may return a Professor card from your graveyard to your hand.",
+        "Add W."
+      ],
+      "flavor_text": "At Cluck U North, even the chickens say 'sorry' when a workflow fails.",
+      "rarity": "rare"
+    },
+    {
+      "name": "Sentry",
+      "type": "Token Creature — Human Sentry",
+      "power_toughness": "1/1",
+      "rarity": "token"
+    },
+    {
+      "name": "Aharon, Florida Man",
+      "type": "Legendary Creature — Human Shaman",
+      "mana_cost": "1GG",
+      "power_toughness": "3/4",
+      "abilities": [
+        "Whenever Aharon, Florida Man deploys to production, you may discard a card. If you do, create a 3/3 green Alligator creature token with trample."
+      ],
+      "flavor_text": "In Tampa's murky swamps, the elusive Florida Man is as rare a find as soft water.",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Aharon, Startup Investor",
+      "type": "Legendary Creature — Human Investor",
+      "mana_cost": "1UWG",
+      "power_toughness": "5/5",
+      "abilities": [
+        "When Aharon, Startup Investor enters the battlefield, create a 1/1 colorless human VC investor creature token.",
+        "Whenever an engineer or investor enters the battlefield, draw a card."
+      ],
+      "flavor_text": "\"Hey Nick, wanna be the CTO of my new soundboards-as-a-service company?\"",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Aharon, Unix Administrator",
+      "type": "Legendary Creature — Human Tech",
+      "mana_cost": "2UB",
+      "power_toughness": "2/4",
+      "abilities": [
+        "When Aharon, Unix Administrator enters the battlefield, look at the top three cards of your library. Put one into your hand and the rest into your graveyard."
+      ],
+      "flavor_text": "\"Hey Allen, before you start, did you consider whether we should write the workflow processing engine in Perl?\"",
+      "rarity": "mythic"
+    },
+    {
+      "name": "Acquired Cybersecurity Startup",
+      "type": "Land",
+      "abilities": [
+        "Add C."
+      ],
+      "flavor_text": "The servers still chirp, but now it's just the echo of data long flown the coop.",
+      "rarity": "rare"
+    },
+    {
+      "name": "Drama-Free Friday",
+      "type": "Enchantment",
+      "mana_cost": "1WU",
+      "abilities": [
+        "At the beginning of your end step, if no spells were cast this turn, draw a card.",
+        "Sacrifice Drama-Free Friday: Opponents can't cast spells during their next turn."
+      ],
+      "flavor_text": "\"Save your drama for Monday, people.\"",
+      "rarity": "rare"
+    },
+    {
+      "name": "Interstate 4",
+      "type": "Legendary Land",
+      "abilities": [
+        "Interstate 4 enters the battlefield tapped.",
+        "Tap: Add R.",
+        "RR, Tap: Target creature gains haste until end of turn."
+      ],
+      "flavor_text": "\"Stay off I-4.\" —Aharon, Florida Man",
+      "rarity": "rare"
+    },
+    {
+      "name": "Alligator",
+      "type": "Token Creature — Alligator",
+      "power_toughness": "3/3",
+      "abilities": [
+        "Trample"
+      ],
+      "flavor_text": "Interior crocodile alligator\nI drive a Chevrolet movie theater",
+      "rarity": "token"
     }
   ]
 }
