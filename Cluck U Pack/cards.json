@@ -5,10 +5,7 @@
       "mana_cost": "{1}{U}{U}",
       "type": "Legendary Creature — Human Wizard Professor",
       "power_toughness": "2/3",
-      "abilities": [
-        "When Headmaster Chow enters the battlefield, return up to one other target creature to its owner's hand.",
-        "{T}: Draw 3 cards."
-      ],
+      "abilities": "When Headmaster Chow enters the battlefield, return up to one other target creature to its owner's hand. {T}: Draw 3 cards.",
       "flavor_text": "\"Let me show you this magical place called The Context ...\"",
       "rarity": "Rare"
     },
@@ -16,10 +13,8 @@
       "name": "Cluck University",
       "mana_cost": "",
       "type": "Legendary Land",
-      "abilities": [
-        "Professors you control have hexproof and indestructible.",
-        "{T}: Add {U} for each artifact you control."
-      ],
+      "power_toughness": null,
+      "abilities": "Professors you control have hexproof and indestructible. {T}: Add {U} for each artifact you control.",
       "flavor_text": "Graduates of Cluck University don't just follow the pecking order. They automate it.",
       "rarity": "Rare"
     },
@@ -28,10 +23,7 @@
       "mana_cost": "{1}{G}{G}",
       "type": "Legendary Creature — Human Wizard Professor",
       "power_toughness": "2/3",
-      "abilities": [
-        "When Brandon, Patient Scholar enters the battlefield, return target creature card from your graveyard to your hand.",
-        "Professors you control get +1/+1."
-      ],
+      "abilities": "When Brandon, Patient Scholar enters the battlefield, return target creature card from your graveyard to your hand. Professors you control get +1/+1.",
       "flavor_text": "\"Every automation starts with a single cluck ...\"",
       "rarity": "Rare"
     },
@@ -40,10 +32,7 @@
       "mana_cost": "{2}{U}{U}",
       "type": "Legendary Creature — Human AI Construct",
       "power_toughness": "3/4",
-      "abilities": [
-        "When Ashe.AI enters the battlefield, create a 0/0 colorless AI Construct artifact creature token with \"This creature gets +1/+1 for each AI you control.\"",
-        "Tap an untapped artifact you control: Add {U}."
-      ],
+      "abilities": "When Ashe.AI enters the battlefield, create a 0/0 colorless AI Construct artifact creature token with \"This creature gets +1/+1 for each AI you control.\" Tap an untapped artifact you control: Add {U}.",
       "flavor_text": "The first step in creating a positive customer experience is to transcend the physical limitations of humanity.",
       "rarity": "Rare"
     },
@@ -52,9 +41,7 @@
       "mana_cost": "{G}{W}{U}",
       "type": "Legendary Creature — Human Techie Professor",
       "power_toughness": "4/4",
-      "abilities": [
-        "When Father Tim enters the battlefield, you may search your graveyard, hand, and/or library for a card named Agent Smith and put it onto the battlefield. If you search your library this way, shuffle."
-      ],
+      "abilities": "When Father Tim enters the battlefield, you may search your graveyard, hand, and/or library for a card named Agent Smith and put it onto the battlefield. If you search your library this way, shuffle.",
       "flavor_text": "He toiled through the night, sowing the open source seeds of automation.",
       "rarity": "Mythic Rare"
     },
@@ -63,9 +50,7 @@
       "mana_cost": "{12}",
       "type": "Artifact Creature — AI Golem Rogue",
       "power_toughness": "11/11",
-      "abilities": [
-        "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
-      ],
+      "abilities": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
       "flavor_text": "Every clone of Agent Smith is deployed with one purpose: to keep the automations flowing.",
       "rarity": "Rare"
     },
@@ -74,9 +59,8 @@
       "mana_cost": "",
       "type": "Token Artifact Creature — AI Construct",
       "power_toughness": "0/0",
-      "abilities": [
-        "This creature gets +1/+1 for each AI you control."
-      ],
+      "abilities": "This creature gets +1/+1 for each AI you control.",
+      "flavor_text": null,
       "rarity": "Token"
     }
   ]

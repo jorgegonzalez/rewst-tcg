@@ -7,6 +7,8 @@ if ! command -v jq &> /dev/null || ! command -v csvformat &> /dev/null; then
     exit 1
 fi
 
+rm -f cards.csv
+
 # Input and output file names
 input_json="cards.json"
 output_csv="cards.csv"
@@ -20,7 +22,7 @@ jq -r '
         .type // "",
         .mana_cost // "",
         .power_toughness // "",
-        (.abilities // [] | join("; ")),
+        (.abilities // [] | join("; ")),  # Handles array of text and joins them with a semicolon
         .flavor_text // "",
         .rarity // ""
     ]) | @csv
