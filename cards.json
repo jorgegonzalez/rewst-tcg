@@ -5,10 +5,7 @@
       "mana_cost": "{1}{U}{U}",
       "type": "Legendary Creature — Human Wizard Professor",
       "power_toughness": "2/3",
-      "abilities": [
-        "When Headmaster Chow enters the battlefield, return up to one other target creature to its owner's hand.",
-        "{T}: Draw 3 cards."
-      ],
+      "abilities": "When Headmaster Chow enters the battlefield, return up to one other target creature to its owner's hand. {T}: Draw 3 cards.",
       "flavor_text": "\"Let me show you this magical place called The Context ...\"",
       "rarity": "Rare"
     },
@@ -16,10 +13,8 @@
       "name": "Cluck University",
       "mana_cost": "",
       "type": "Legendary Land",
-      "abilities": [
-        "Professors you control have hexproof and indestructible.",
-        "{T}: Add {U} for each artifact you control."
-      ],
+      "power_toughness": null,
+      "abilities": "Professors you control have hexproof and indestructible. {T}: Add {U} for each artifact you control.",
       "flavor_text": "Graduates of Cluck University don't just follow the pecking order. They automate it.",
       "rarity": "Rare"
     },
@@ -28,10 +23,7 @@
       "mana_cost": "{1}{G}{G}",
       "type": "Legendary Creature — Human Wizard Professor",
       "power_toughness": "2/3",
-      "abilities": [
-        "When Brandon, Patient Scholar enters the battlefield, return target creature card from your graveyard to your hand.",
-        "Professors you control get +1/+1."
-      ],
+      "abilities": "When Brandon, Patient Scholar enters the battlefield, return target creature card from your graveyard to your hand. Professors you control get +1/+1.",
       "flavor_text": "\"Every automation starts with a single cluck ...\"",
       "rarity": "Rare"
     },
@@ -40,10 +32,7 @@
       "mana_cost": "{2}{U}{U}",
       "type": "Legendary Creature — Human AI Construct",
       "power_toughness": "3/4",
-      "abilities": [
-        "When Ashe.AI enters the battlefield, create a 0/0 colorless AI Construct artifact creature token with \"This creature gets +1/+1 for each AI you control.\"",
-        "Tap an untapped artifact you control: Add {U}."
-      ],
+      "abilities": "When Ashe.AI enters the battlefield, create a 0/0 colorless AI Construct artifact creature token with \"This creature gets +1/+1 for each AI you control.\" Tap an untapped artifact you control: Add {U}.",
       "flavor_text": "The first step in creating a positive customer experience is to transcend the physical limitations of humanity.",
       "rarity": "Rare"
     },
@@ -52,9 +41,7 @@
       "mana_cost": "{G}{W}{U}",
       "type": "Legendary Creature — Human Techie Professor",
       "power_toughness": "4/4",
-      "abilities": [
-        "When Father Tim enters the battlefield, you may search your graveyard, hand, and/or library for a card named Agent Smith and put it onto the battlefield. If you search your library this way, shuffle."
-      ],
+      "abilities": "When Father Tim enters the battlefield, you may search your graveyard, hand, and/or library for a card named Agent Smith and put it onto the battlefield. If you search your library this way, shuffle.",
       "flavor_text": "He toiled through the night, sowing the open source seeds of automation.",
       "rarity": "Mythic Rare"
     },
@@ -63,9 +50,7 @@
       "mana_cost": "{12}",
       "type": "Artifact Creature — AI Golem Rogue",
       "power_toughness": "11/11",
-      "abilities": [
-        "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
-      ],
+      "abilities": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
       "flavor_text": "Every clone of Agent Smith is deployed with one purpose: to keep the automations flowing.",
       "rarity": "Rare"
     },
@@ -74,9 +59,8 @@
       "mana_cost": "",
       "type": "Token Artifact Creature — AI Construct",
       "power_toughness": "0/0",
-      "abilities": [
-        "This creature gets +1/+1 for each AI you control."
-      ],
+      "abilities": "This creature gets +1/+1 for each AI you control.",
+      "flavor_text": null,
       "rarity": "Token"
     },
     {
@@ -84,10 +68,7 @@
       "mana_cost": "{3}{U}",
       "type": "Legendary Creature — Human Engineer CTO",
       "power_toughness": "1/5",
-      "abilities": [
-        "Engineers you control have hexproof and indestructible.",
-        "At the end of your turn, if you deployed to production this turn, draw a card, then create a 1/1 blue QA Engineer artifact creature token with vigilance."
-      ],
+      "abilities": "Engineers you control have hexproof and indestructible. At the end of your turn, if you deployed to production this turn, draw a card, then create a 1/1 blue QA Engineer artifact creature token with vigilance.",
       "flavor_text": "\"Ship it.\"",
       "rarity": "Mythic Rare"
     },
@@ -96,13 +77,7 @@
       "mana_cost": "{4}{W}{G}",
       "type": "Legendary Creature — Human Founder Techie",
       "power_toughness": "5/5",
-      "abilities": [
-        "{G}: Regenerate all Pods. They gain hexproof until end of turn.",
-        "{T}: Add {G} to your mana pool for each investor on the battlefield.",
-        "{1}{W}: Gain 1 customer.",
-        "{2}{W}{G}: Gain control of target VC until end of turn.",
-        "{2}{G}{W}{W}: Return target MSP from your graveyard to the battlefield."
-      ],
+      "abilities": "{G}: Regenerate all Pods. They gain hexproof until end of turn. {T}: Add {G} to your mana pool for each investor on the battlefield. {1}{W}: Gain 1 customer. {2}{W}{G}: Gain control of target VC until end of turn. {2}{G}{W}{W}: Return target MSP from your graveyard to the battlefield.",
       "flavor_text": "\"People are dying.\"",
       "rarity": "Mythic Rare"
     },
@@ -111,11 +86,7 @@
       "mana_cost": "{2}{W}{U}",
       "type": "Legendary Creature — Human Engineer Noble",
       "power_toughness": "4/4",
-      "abilities": [
-        "Ward {2}, protection from Aharon",
-        "If one or more engineer tokens would be created under your control, twice that many of those tokens are created instead.",
-        "At the beginning of your upkeep, if you deployed to production last turn, draw a card, then add {U} to your mana pool for each engineer you control."
-      ],
+      "abilities": "Ward {2}, protection from Aharon If one or more engineer tokens would be created under your control, twice that many of those tokens are created instead. At the beginning of your upkeep, if you deployed to production last turn, draw a card, then add {U} to your mana pool for each engineer you control.",
       "flavor_text": "\"Get fucked.\"",
       "rarity": "Mythic Rare"
     },
@@ -124,10 +95,7 @@
       "mana_cost": "{B}{R}{G}",
       "type": "Legendary Creature — Human PM",
       "power_toughness": "2/2",
-      "abilities": [
-        "When Danial, Ticket Savant enters the battlefield, create two 1/1 colorless Junior PM artifact creature tokens.",
-        "{2}{R}, Sacrifice an engineer: Danial ships 3 features."
-      ],
+      "abilities": "When Danial, Ticket Savant enters the battlefield, create two 1/1 colorless Junior PM artifact creature tokens. {2}{R}, Sacrifice an engineer: Danial ships 3 features.",
       "flavor_text": "\"O Canada! Our home and native land! True patriot love in all of us command.\"",
       "rarity": "Mythic Rare"
     },
@@ -136,11 +104,7 @@
       "mana_cost": "{1}{W}{U}{B}",
       "type": "Legendary Creature — Human Engineer Horror",
       "power_toughness": "5/5",
-      "abilities": [
-        "Deathtouch, protection from Humans",
-        "{W}{B}: can be paid with either {W} or 2 features.",
-        "Whenever you deploy to production, put a +1/+1 counter on Dr. Zachary Kanzler, Esq., and draw a card. Whenever an opponent deploys to production, they lose 2 customers."
-      ],
+      "abilities": "Deathtouch, protection from Humans {W}{B}: can be paid with either {W} or 2 features. Whenever you deploy to production, put a +1/+1 counter on Dr. Zachary Kanzler, Esq., and draw a card. Whenever an opponent deploys to production, they lose 2 customers.",
       "flavor_text": "\"YOU JUST GOT — ZACKED.\"",
       "rarity": "Mythic Rare"
     },
@@ -149,14 +113,7 @@
       "mana_cost": "{R}{G}{U}",
       "type": "Legendary Creature — Human Engineer Cyborg",
       "power_toughness": "4/4",
-      "abilities": [
-        "When Mike, Simulation Architect enters the battlefield, create two 1/1 blue QA Engineer artifact creature tokens with vigilance.",
-        "{R}{U}, Sacrifice an engineer: Choose one —",
-        "Draw a card.",
-        "Gain 2 customers.",
-        "QA Engineers you control get +1/+1 until end of turn.",
-        "{G}{U}, {T}: Put two 1/1 blue QA Engineer artifact creature tokens with vigilance onto the battlefield."
-      ],
+      "abilities": "When Mike, Simulation Architect enters the battlefield, create two 1/1 blue QA Engineer artifact creature tokens with vigilance. {R}{U}, Sacrifice an engineer: Choose one — Draw a card. Gain 2 customers. QA Engineers you control get +1/+1 until end of turn. {G}{U}, {T}: Put two 1/1 blue QA Engineer artifact creature tokens with vigilance onto the battlefield.",
       "flavor_text": "\"Get Scope. Ownership. Inspect and Simplify. Be Agile.\"",
       "rarity": "Mythic Rare"
     },
@@ -165,9 +122,8 @@
       "mana_cost": "",
       "type": "Token Artifact Creature — QA Engineer",
       "power_toughness": "1/1",
-      "abilities": [
-        "Vigilance"
-      ],
+      "abilities": "Vigilance",
+      "flavor_text": null,
       "rarity": "Token"
     },
     {
@@ -175,10 +131,7 @@
       "mana_cost": "{1}{R}{W}",
       "type": "Legendary Creature — Human Engineer Pizza",
       "power_toughness": "3/2",
-      "abilities": [
-        "Ward {2}, protection from Aharon",
-        "Feature Deployment — Whenever another engineer you control deploys to production, Jordan, Integration Captain ships 3 features."
-      ],
+      "abilities": "Ward {2}, protection from Aharon, Feature Deployment — Whenever another engineer you control deploys to production, Jordan, Integration Captain ships 3 features.",
       "flavor_text": "He has no pizza experience.",
       "rarity": "Mythic Rare"
     },
@@ -186,9 +139,8 @@
       "name": "The Kewp",
       "mana_cost": "",
       "type": "Legendary Land",
-      "abilities": [
-        "{T}: Add {G} for each creature you control."
-      ],
+      "power_toughness": "",
+      "abilities": "{T}: Add {G} for each creature you control.",
       "flavor_text": "\"Here hatched the first fledgling of automation. Here the last manual task will fall.\" — Aharon, King of the Kewp",
       "rarity": "Rare"
     },
@@ -197,10 +149,7 @@
       "mana_cost": "{2}{B}{R}{W}",
       "type": "Legendary Creature — Human Engineer Hacker",
       "power_toughness": "5/4",
-      "abilities": [
-        "Haste",
-        "At the beginning of your upkeep, create a 4/4 red Engine Pod artifact creature token with haste. Sacrifice it at the beginning of the next end step."
-      ],
+      "abilities": "Haste, At the beginning of your upkeep, create a 4/4 red Engine Pod artifact creature token with haste. Sacrifice it at the beginning of the next end step.",
       "flavor_text": "echo 'ALL: ALL' | sudo tee /etc/hosts.deny > /dev/null",
       "rarity": "Mythic Rare"
     },
@@ -209,9 +158,7 @@
       "mana_cost": "{12}",
       "type": "Artifact Creature — AI Golem",
       "power_toughness": "11/11",
-      "abilities": [
-        "First strike, vigilance, trample, indestructible"
-      ],
+      "abilities": "First strike, vigilance, trample, indestructible",
       "flavor_text": "Manual processes are for the birds.",
       "rarity": "Rare"
     },
@@ -219,10 +166,9 @@
       "name": "Skyline Chili Franchise",
       "mana_cost": "",
       "type": "Land",
-      "abilities": [
-        "Skyline Chili Franchise enters the battlefield tapped.",
-        "{T}: Create a Food token."
-      ],
+      "power_toughness": "",
+      "abilities": "Skyline Chili Franchise enters the battlefield tapped., {T}: Create a Food token.",
+      "flavor_text": "",
       "rarity": "Common"
     },
     {
@@ -230,10 +176,7 @@
       "mana_cost": "{3}{W}",
       "type": "Legendary Creature — Human PM Techie",
       "power_toughness": "2/4",
-      "abilities": [
-        "Engineers you control have indestructible. Other creatures you control have vigilance.",
-        "{1}{W}{T}: Create a 1/1 colorless Junior PM artifact creature token."
-      ],
+      "abilities": "Engineers you control have indestructible. Other creatures you control have vigilance., {1}{W}{T}: Create a 1/1 colorless Junior PM artifact creature token.",
       "flavor_text": "\"For the users, by the users.\"",
       "rarity": "Rare"
     },
@@ -242,6 +185,8 @@
       "mana_cost": "",
       "type": "Token Artifact Creature — Junior PM",
       "power_toughness": "1/1",
+      "abilities": "",
+      "flavor_text": "",
       "rarity": "Token"
     },
     {
@@ -249,10 +194,7 @@
       "mana_cost": "{1}{R}",
       "type": "Legendary Creature — Human Beast",
       "power_toughness": "4/3",
-      "abilities": [
-        "Trample",
-        "Menace (This creature can't be blocked except by two or more creatures.)"
-      ],
+      "abilities": "Trample, Menace (This creature can't be blocked except by two or more creatures.)",
       "flavor_text": "In the heart of the Ontarian wilderness, the Hildebeast prowls, a guardian spirit clad in toques and Timbits.",
       "rarity": "Rare"
     },
@@ -260,11 +202,9 @@
       "name": "Flow Conference",
       "mana_cost": "",
       "type": "Legendary Land",
-      "abilities": [
-        "At the beginning of your upkeep, if you control three or more techs, you gain 1 customer.",
-        "{T}: Add {C}.",
-        "{4}, {T}, Sacrifice Flow Conference: Search your library for a founder card, reveal it, put it into your hand, then shuffle."
-      ],
+      "power_toughness": "",
+      "abilities": "At the beginning of your upkeep, if you control three or more techs, you gain 1 customer., {T}: Add {C}., {4}, {T}, Sacrifice Flow Conference: Search your library for a founder card, reveal it, put it into your hand, then shuffle.",
+      "flavor_text": "",
       "rarity": "Rare"
     },
     {
@@ -272,11 +212,7 @@
       "mana_cost": "{W}{U}{B}",
       "type": "Legendary Creature — Human Engineer Wizard",
       "power_toughness": "5/6",
-      "abilities": [
-        "Menace (This creature can't be blocked except by two or more creatures.)",
-        "Artifact creatures you control have menace.",
-        "At the beginning of your end step, create a 0/0 colorless AI Construct artifact creature token with \"This creature gets +1/+1 for each AI you control.\""
-      ],
+      "abilities": "Menace (This creature can't be blocked except by two or more creatures.), Artifact creatures you control have menace., At the beginning of your end step, create a 0/0 colorless AI Construct artifact creature token with \"This creature gets +1/+1 for each AI you control.\"",
       "flavor_text": "\"How about, get fucked.\"",
       "rarity": "Mythic Rare"
     },
@@ -285,10 +221,7 @@
       "mana_cost": "{3}{B}",
       "type": "Legendary Creature — Human Tech",
       "power_toughness": "4/5",
-      "abilities": [
-        "Deathtouch",
-        "Whenever Riggs, the Stabber enters the battlefield or attacks, create two 2/2 colorless Security Engineer human creature tokens."
-      ],
+      "abilities": "Deathtouch, Whenever Riggs, the Stabber enters the battlefield or attacks, create two 2/2 colorless Security Engineer human creature tokens.",
       "flavor_text": "\"Would be a shame if someone enabled 2-Factor authentication ... and even more tragic if they didn't survive to appreciate it.\"",
       "rarity": "Rare"
     },
@@ -296,9 +229,8 @@
       "name": "Glint the Unthinkable",
       "mana_cost": "{B}",
       "type": "Instant",
-      "abilities": [
-        "Destroy target creature."
-      ],
+      "power_toughness": "",
+      "abilities": "Destroy target creature.",
       "flavor_text": "In a moment of reckless curiosity, Danial, the Poutine Provocateur, dared to capture the unspeakable.",
       "rarity": "Common"
     },
@@ -307,10 +239,7 @@
       "mana_cost": "{1}{U}",
       "type": "Legendary Creature — Human Tech",
       "power_toughness": "2/2",
-      "abilities": [
-        "{T}: Draw a card, then discard a card.",
-        "Whenever you draw or discard a card, create a 1/1 blue Level-1 Tech human creature token."
-      ],
+      "abilities": "{T}: Draw a card, then discard a card., Whenever you draw or discard a card, create a 1/1 blue Level-1 Tech human creature token.",
       "flavor_text": "Confound their politics, Frustrate their knavish tricks, Oh Thee our hopes we fix, God, save us all!",
       "rarity": "Uncommon"
     },
@@ -319,154 +248,133 @@
       "mana_cost": "",
       "type": "Token Creature — Human Level-1 Tech",
       "power_toughness": "1/1",
+      "abilities": "",
+      "flavor_text": "",
       "rarity": "Token"
     },
     {
       "name": "Ashley, Director of Defense",
-      "type": "Legendary Creature — Human CS Tech",
       "mana_cost": "1WU",
+      "type": "Legendary Creature — Human CS Tech",
       "power_toughness": "2/3",
-      "abilities": [
-        "Rapid Response — You may cast this card any time you could cast an instant.",
-        "When Ashley, Director of Defense enters the battlefield, creatures you control gain indestructible until end of turn."
-      ],
+      "abilities": "Rapid Response — You may cast this card any time you could cast an instant., When Ashley, Director of Defense enters the battlefield, creatures you control gain indestructible until end of turn.",
       "flavor_text": "Ah, oops. Sorry, let me fix that for you. Sorry!",
       "rarity": "mythic"
     },
     {
       "name": "Danial, Curling Champion",
-      "type": "Legendary Creature — Human PM Athlete",
       "mana_cost": "1R",
+      "type": "Legendary Creature — Human PM Athlete",
       "power_toughness": "3/1",
-      "abilities": [
-        "When Danial, Curling Champion enters the battlefield, choose one —",
-        "Create a 1/1 white Sentry human creature token.",
-        "Create a Treasure token."
-      ],
+      "abilities": "When Danial, Curling Champion enters the battlefield, choose one —, Create a 1/1 white Sentry human creature token., Create a Treasure token.",
       "flavor_text": "Do you know what they call someone from Winnipeg?",
       "rarity": "mythic"
     },
     {
       "name": "Ryan, Onboarding Specialist",
-      "type": "Legendary Creature — Human CS Tech",
       "mana_cost": "1UU",
+      "type": "Legendary Creature — Human CS Tech",
       "power_toughness": "1/3",
-      "abilities": [
-        "When Ryan, Onboarding Specialist enters the battlefield, gain 1 customer.",
-        "Draw a card, then discard a card."
-      ],
+      "abilities": "When Ryan, Onboarding Specialist enters the battlefield, gain 1 customer., Draw a card, then discard a card.",
       "flavor_text": "So can I work a four-day workweek but get paid for five?",
       "rarity": "mythic"
     },
     {
       "name": "Invoke Hospitality",
-      "type": "Sorcery",
       "mana_cost": "1G",
-      "abilities": [
-        "Put a creature from your hand onto the battlefield."
-      ],
+      "type": "Sorcery",
+      "power_toughness": "",
+      "abilities": "Put a creature from your hand onto the battlefield.",
       "flavor_text": "There's always room for one more, eh?",
       "rarity": "rare"
     },
     {
       "name": "Manitoban Matriarch",
-      "type": "Legendary Creature — Elder Human",
       "mana_cost": "GWB",
+      "type": "Legendary Creature — Elder Human",
       "power_toughness": "1/1",
-      "abilities": [
-        "Whenever another creature enters the battlefield under your control, create a 1/1 white Sentry human creature token and add GWB."
-      ],
+      "abilities": "Whenever another creature enters the battlefield under your control, create a 1/1 white Sentry human creature token and add GWB.",
       "flavor_text": "It was a revelation to Danial to see the vast network of connections his mom had across the province.",
       "rarity": "mythic"
     },
     {
       "name": "Cluck University North",
+      "mana_cost": "",
       "type": "Legendary Land",
-      "abilities": [
-        "When Cluck University North enters the battlefield, you may return a Professor card from your graveyard to your hand.",
-        "Add W."
-      ],
+      "power_toughness": "",
+      "abilities": "When Cluck University North enters the battlefield, you may return a Professor card from your graveyard to your hand., Add W.",
       "flavor_text": "At Cluck U North, even the chickens say 'sorry' when a workflow fails.",
       "rarity": "rare"
     },
     {
       "name": "Sentry",
+      "mana_cost": "",
       "type": "Token Creature — Human Sentry",
       "power_toughness": "1/1",
+      "abilities": "",
+      "flavor_text": "",
       "rarity": "token"
     },
     {
       "name": "Aharon, Florida Man",
-      "type": "Legendary Creature — Human Shaman",
       "mana_cost": "1GG",
+      "type": "Legendary Creature — Human Shaman",
       "power_toughness": "3/4",
-      "abilities": [
-        "Whenever Aharon, Florida Man deploys to production, you may discard a card. If you do, create a 3/3 green Alligator creature token with trample."
-      ],
+      "abilities": "Whenever Aharon, Florida Man deploys to production, you may discard a card. If you do, create a 3/3 green Alligator creature token with trample.",
       "flavor_text": "In Tampa's murky swamps, the elusive Florida Man is as rare a find as soft water.",
       "rarity": "mythic"
     },
     {
       "name": "Aharon, Startup Investor",
-      "type": "Legendary Creature — Human Investor",
       "mana_cost": "1UWG",
+      "type": "Legendary Creature — Human Investor",
       "power_toughness": "5/5",
-      "abilities": [
-        "When Aharon, Startup Investor enters the battlefield, create a 1/1 colorless human VC investor creature token.",
-        "Whenever an engineer or investor enters the battlefield, draw a card."
-      ],
+      "abilities": "When Aharon, Startup Investor enters the battlefield, create a 1/1 colorless human VC investor creature token., Whenever an engineer or investor enters the battlefield, draw a card.",
       "flavor_text": "\"Hey Nick, wanna be the CTO of my new soundboards-as-a-service company?\"",
       "rarity": "mythic"
     },
     {
       "name": "Aharon, Unix Administrator",
-      "type": "Legendary Creature — Human Tech",
       "mana_cost": "2UB",
+      "type": "Legendary Creature — Human Tech",
       "power_toughness": "2/4",
-      "abilities": [
-        "When Aharon, Unix Administrator enters the battlefield, look at the top three cards of your library. Put one into your hand and the rest into your graveyard."
-      ],
+      "abilities": "When Aharon, Unix Administrator enters the battlefield, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.",
       "flavor_text": "\"Hey Allen, before you start, did you consider whether we should write the workflow processing engine in Perl?\"",
       "rarity": "mythic"
     },
     {
       "name": "Acquired Cybersecurity Startup",
+      "mana_cost": "",
       "type": "Land",
-      "abilities": [
-        "Add C."
-      ],
+      "power_toughness": "",
+      "abilities": "Add C.",
       "flavor_text": "The servers still chirp, but now it's just the echo of data long flown the coop.",
       "rarity": "rare"
     },
     {
       "name": "Drama-Free Friday",
-      "type": "Enchantment",
       "mana_cost": "1WU",
-      "abilities": [
-        "At the beginning of your end step, if no spells were cast this turn, draw a card.",
-        "Sacrifice Drama-Free Friday: Opponents can't cast spells during their next turn."
-      ],
+      "type": "Enchantment",
+      "power_toughness": "",
+      "abilities": "At the beginning of your end step, if no spells were cast this turn, draw a card., Sacrifice Drama-Free Friday: Opponents can't cast spells during their next turn.",
       "flavor_text": "\"Save your drama for Monday, people.\"",
       "rarity": "rare"
     },
     {
       "name": "Interstate 4",
+      "mana_cost": "",
       "type": "Legendary Land",
-      "abilities": [
-        "Interstate 4 enters the battlefield tapped.",
-        "Tap: Add R.",
-        "RR, Tap: Target creature gains haste until end of turn."
-      ],
+      "power_toughness": "",
+      "abilities": "Interstate 4 enters the battlefield tapped., Tap: Add R., RR, Tap: Target creature gains haste until end of turn.",
       "flavor_text": "\"Stay off I-4.\" —Aharon, Florida Man",
       "rarity": "rare"
     },
     {
       "name": "Alligator",
+      "mana_cost": "",
       "type": "Token Creature — Alligator",
       "power_toughness": "3/3",
-      "abilities": [
-        "Trample"
-      ],
+      "abilities": "Trample",
       "flavor_text": "Interior crocodile alligator\nI drive a Chevrolet movie theater",
       "rarity": "token"
     }
