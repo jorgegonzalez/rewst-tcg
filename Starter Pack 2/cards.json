@@ -1,0 +1,67 @@
+{
+  "cards": [
+    {
+      "name": "Jordan, Integration Captain",
+      "mana_cost": "{1}{R}{W}",
+      "type": "Legendary Creature — Human Engineer Pizza",
+      "power_toughness": "3/2",
+      "abilities": "Ward {2}, protection from Aharon, Feature Deployment — Whenever another engineer you control deploys to production, Jordan, Integration Captain ships 3 features.",
+      "flavor_text": "He has no pizza experience.",
+      "rarity": "Mythic Rare"
+    },
+    {
+      "name": "The Kewp",
+      "mana_cost": "",
+      "type": "Legendary Land",
+      "power_toughness": "",
+      "abilities": "{T}: Add {G} for each creature you control.",
+      "flavor_text": "\"Here hatched the first fledgling of automation. Here the last manual task will fall.\" — Aharon, King of the Kewp",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Willis, Architect of Automation",
+      "mana_cost": "{2}{B}{R}{W}",
+      "type": "Legendary Creature — Human Engineer Hacker",
+      "power_toughness": "5/4",
+      "abilities": "Haste, At the beginning of your upkeep, create a 4/4 red Engine Pod artifact creature token with haste. Sacrifice it at the beginning of the next end step.",
+      "flavor_text": "echo 'ALL: ALL' | sudo tee /etc/hosts.deny > /dev/null",
+      "rarity": "Mythic Rare"
+    },
+    {
+      "name": "Robo-Rewsty",
+      "mana_cost": "{12}",
+      "type": "Artifact Creature — AI Golem",
+      "power_toughness": "11/11",
+      "abilities": "First strike, vigilance, trample, indestructible",
+      "flavor_text": "Manual processes are for the birds.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Skyline Chili Franchise",
+      "mana_cost": "",
+      "type": "Land",
+      "power_toughness": "",
+      "abilities": "Skyline Chili Franchise enters the battlefield tapped., {T}: Create a Food token.",
+      "flavor_text": "",
+      "rarity": "Common"
+    },
+    {
+      "name": "Martyn, Mystic Manager",
+      "mana_cost": "{3}{W}",
+      "type": "Legendary Creature — Human PM Techie",
+      "power_toughness": "2/4",
+      "abilities": "Engineers you control have indestructible. Other creatures you control have vigilance., {1}{W}{T}: Create a 1/1 colorless Junior PM artifact creature token.",
+      "flavor_text": "\"For the users, by the users.\"",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Junior PM",
+      "mana_cost": "",
+      "type": "Token Artifact Creature — Junior PM",
+      "power_toughness": "1/1",
+      "abilities": "",
+      "flavor_text": "",
+      "rarity": "Token"
+    }
+  ]
+}
