@@ -33,6 +33,7 @@
   - [Joe, Wasteland Artisan](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Joe,%20Wasteland%20Artisan.png)
   - [Junior Engineer](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Junior%20Engineer.png)
   - [Tricia, Sunfield Mage](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Tricia,%20Sunfield%20Mage.png)
+  - [Cluck University Researcher](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/Cluck%20University%20Researcher.png)
   - [Feature Gate](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/Feature%20Gate.png)
   - [R.W.S.T. The Pirate Room](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/R.W.S.T.%20The%20Pirate%20Room.png)
   - [R.W.S.T. The War Room](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/R.W.S.T.%20The%20War%20Room.png)
