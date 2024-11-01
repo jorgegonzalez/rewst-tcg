@@ -41,6 +41,7 @@
   - [Senior PM](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/Senior%20PM.png)
   - [Technological Supremacy](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/Technological%20Supremacy.png)
   - [DattoCon Miami](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/DattoCon%20Miami.png)
+  - [Pavan, Pod Orchestrator](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/Pavan,%20Pod%20Orchestrator.png)
   - [Ashley, Director of Defense](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Ashley,%20Director%20of%20Defense.png)
   - [Cluck University North](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Cluck%20University%20North.png)
   - [Danial, Curling Champion](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Danial,%20Curling%20Champion.png)
