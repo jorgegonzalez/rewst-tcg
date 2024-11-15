@@ -1,0 +1,257 @@
+{
+  "Danial, Ticket Savant": {
+    "name": "Danial, Ticket Savant",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Danial,%20Ticket%20Savant.png",
+    "rarity": ""
+  },
+  "Dr. Zachary Kanzler, Esq.": {
+    "name": "Dr. Zachary Kanzler, Esq.",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Dr.%20Zachary%20Kanzler,%20Esq..png",
+    "rarity": ""
+  },
+  "Allen, Director of Robotics": {
+    "name": "Allen, Director of Robotics",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Allen,%20Director%20of%20Robotics.png",
+    "rarity": ""
+  },
+  "Mike, Simulation Architect": {
+    "name": "Mike, Simulation Architect",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Mike,%20Simulation%20Architect.png",
+    "rarity": ""
+  },
+  "Aharon, King of the Kewp": {
+    "name": "Aharon, King of the Kewp",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Aharon,%20King%20of%20the%20Kewp.png",
+    "rarity": ""
+  },
+  "QA Engineer": {
+    "name": "QA Engineer",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/QA%20Engineer.png",
+    "rarity": ""
+  },
+  "Nick, Consul of Innovation": {
+    "name": "Nick, Consul of Innovation",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Nick,%20Consul%20of%20Innovation.png",
+    "rarity": ""
+  },
+  "AI Construct": {
+    "name": "AI Construct",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/AI%20Construct.png",
+    "rarity": ""
+  },
+  "Agent Smith": {
+    "name": "Agent Smith",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Agent%20Smith.png",
+    "rarity": ""
+  },
+  "Headmaster Chow": {
+    "name": "Headmaster Chow",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Headmaster%20Chow.png",
+    "rarity": ""
+  },
+  "Father Tim": {
+    "name": "Father Tim",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Father%20Tim.png",
+    "rarity": ""
+  },
+  "Cluck University": {
+    "name": "Cluck University",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Cluck%20University.png",
+    "rarity": ""
+  },
+  "Ashe.AI": {
+    "name": "Ashe.AI",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Ashe.AI.png",
+    "rarity": ""
+  },
+  "Brandon, Patient Scholar": {
+    "name": "Brandon, Patient Scholar",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Brandon,%20Patient%20Scholar.png",
+    "rarity": ""
+  },
+  "Invoke Hospitality": {
+    "name": "Invoke Hospitality",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Invoke%20Hospitality.png",
+    "rarity": ""
+  },
+  "Sentry": {
+    "name": "Sentry",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Sentry.png",
+    "rarity": ""
+  },
+  "Ryan, Onboarding Specialist": {
+    "name": "Ryan, Onboarding Specialist",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Ryan,%20Onboarding%20Specialist.png",
+    "rarity": ""
+  },
+  "Danial, Curling Champion": {
+    "name": "Danial, Curling Champion",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Danial,%20Curling%20Champion.png",
+    "rarity": ""
+  },
+  "Ashley, Director of Defense": {
+    "name": "Ashley, Director of Defense",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Ashley,%20Director%20of%20Defense.png",
+    "rarity": ""
+  },
+  "Cluck University North": {
+    "name": "Cluck University North",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Cluck%20University%20North.png",
+    "rarity": ""
+  },
+  "Manitoban Matriarch": {
+    "name": "Manitoban Matriarch",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Manitoban%20Matriarch.png",
+    "rarity": ""
+  },
+  "Adam, Archmage of Automation": {
+    "name": "Adam, Archmage of Automation",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20Archmage%20of%20Automation.png",
+    "rarity": ""
+  },
+  "Level-1 Tech": {
+    "name": "Level-1 Tech",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Level-1%20Tech.png",
+    "rarity": ""
+  },
+  "Hildebeast": {
+    "name": "Hildebeast",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Hildebeast.png",
+    "rarity": ""
+  },
+  "Flow Conference": {
+    "name": "Flow Conference",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Flow%20Conference.png",
+    "rarity": ""
+  },
+  "Adam, IT Apprentice": {
+    "name": "Adam, IT Apprentice",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Adam,%20IT%20Apprentice.png",
+    "rarity": ""
+  },
+  "Glint the Unthinkable": {
+    "name": "Glint the Unthinkable",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Glint%20the%20Unthinkable.png",
+    "rarity": ""
+  },
+  "Riggs, the Stabber": {
+    "name": "Riggs, the Stabber",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%203/Riggs,%20the%20Stabber.png",
+    "rarity": ""
+  },
+  "Global System Outage": {
+    "name": "Global System Outage",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Global%20System%20Outage.png",
+    "rarity": ""
+  },
+  "Danial, the Wanderer": {
+    "name": "Danial, the Wanderer",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Danial,%20the%20Wanderer.png",
+    "rarity": ""
+  },
+  "Charlie, Mob Boss": {
+    "name": "Charlie, Mob Boss",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Charlie,%20Mob%20Boss.png",
+    "rarity": ""
+  },
+  "Joe, Wasteland Artisan": {
+    "name": "Joe, Wasteland Artisan",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Joe,%20Wasteland%20Artisan.png",
+    "rarity": ""
+  },
+  "Tricia, Sunfield Mage": {
+    "name": "Tricia, Sunfield Mage",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Tricia,%20Sunfield%20Mage.png",
+    "rarity": ""
+  },
+  "Jamie, Archon of Support": {
+    "name": "Jamie, Archon of Support",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Jamie,%20Archon%20of%20Support.png",
+    "rarity": ""
+  },
+  "Junior Engineer": {
+    "name": "Junior Engineer",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%204/Junior%20Engineer.png",
+    "rarity": ""
+  },
+  "R.W.S.T. The Pirate Room": {
+    "name": "R.W.S.T. The Pirate Room",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/R.W.S.T.%20The%20Pirate%20Room.png",
+    "rarity": ""
+  },
+  "Dubious Chili Franchise": {
+    "name": "Dubious Chili Franchise",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Dubious%20Chili%20Franchise.png",
+    "rarity": ""
+  },
+  "Junior PM": {
+    "name": "Junior PM",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Junior%20PM.png",
+    "rarity": ""
+  },
+  "Martyn, Mystic Manager": {
+    "name": "Martyn, Mystic Manager",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Martyn,%20Mystic%20Manager.png",
+    "rarity": ""
+  },
+  "The Kewp": {
+    "name": "The Kewp",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/The%20Kewp.png",
+    "rarity": ""
+  },
+  "Willis, Architect of Automation": {
+    "name": "Willis, Architect of Automation",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Willis,%20Architect%20of%20Automation.png",
+    "rarity": ""
+  },
+  "Robo-Rewsty": {
+    "name": "Robo-Rewsty",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Robo-Rewsty.png",
+    "rarity": ""
+  },
+  "Jordan, Integration Captain": {
+    "name": "Jordan, Integration Captain",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Jordan,%20Integration%20Captain.png",
+    "rarity": ""
+  },
+  "Skyline Chili Franchise": {
+    "name": "Skyline Chili Franchise",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%202/Skyline%20Chili%20Franchise.png",
+    "rarity": ""
+  },
+  "Aharon, Unix Administrator": {
+    "name": "Aharon, Unix Administrator",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Life%20of%20Aharon/Aharon,%20Unix%20Administrator.png",
+    "rarity": ""
+  },
+  "Drama-Free Friday": {
+    "name": "Drama-Free Friday",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Life%20of%20Aharon/Drama-Free%20Friday.png",
+    "rarity": ""
+  },
+  "Interstate 4": {
+    "name": "Interstate 4",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Life%20of%20Aharon/Interstate%204.png",
+    "rarity": ""
+  },
+  "Aharon, Florida Man": {
+    "name": "Aharon, Florida Man",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Life%20of%20Aharon/Aharon,%20Florida%20Man.png",
+    "rarity": ""
+  },
+  "Aharon, Startup Investor": {
+    "name": "Aharon, Startup Investor",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Life%20of%20Aharon/Aharon,%20Startup%20Investor.png",
+    "rarity": ""
+  },
+  "Acquired Cybersecurity Startup": {
+    "name": "Acquired Cybersecurity Startup",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Life%20of%20Aharon/Acquired%20Cybersecurity%20Startup.png",
+    "rarity": ""
+  },
+  "Alligator": {
+    "name": "Alligator",
+    "url": "https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Life%20of%20Aharon/Alligator.png",
+    "rarity": ""
+  }
+}
