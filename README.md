@@ -40,6 +40,7 @@
   - [Security Training](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/Security%20Training.png)
   - [Senior PM](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/Senior%20PM.png)
   - [Technological Supremacy](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%205/Technological%20Supremacy.png)
+  - [Cameron, Gold-Tongue Grifter](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/Cameron,%20Gold-Tongue%20Grifter.png)
   - [Clea, Hat-Wise Sage](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/Clea,%20Hat-Wise%20Sage.png)
   - [DattoCon Miami](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/DattoCon%20Miami.png)
   - [Engine Pod](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/Engine%20Pod.png)
