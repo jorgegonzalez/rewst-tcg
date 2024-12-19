@@ -4,6 +4,8 @@
   - [Cluck University](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Cluck%20University.png)
   - [Father Tim](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Father%20Tim.png)
   - [Headmaster Chow](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Headmaster%20Chow.png)
+  - [Aharon’s Law](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Promo%20Pack%202024/Aharon’s%20Law.png)
+  - [Jorge, Philosopher of Rewst](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Promo%20Pack%202024/Jorge,%20Philosopher%20of%20Rewst.png)
   - [Aharon, King of the Kewp](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Aharon,%20King%20of%20the%20Kewp.png)
   - [Allen, Director of Robotics](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Allen,%20Director%20of%20Robotics.png)
   - [Danial, Ticket Savant](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%201/Danial,%20Ticket%20Savant.png)
