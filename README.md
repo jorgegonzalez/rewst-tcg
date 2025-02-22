@@ -1,3 +1,4 @@
+  - [AI Construct](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/AI%20Construct.png)
   - [Agent Smith](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Agent%20Smith.png)
   - [Ashe.AI](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Ashe.AI.png)
   - [Brandon, Patient Scholar](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Cluck%20U%20Pack/Brandon,%20Patient%20Scholar.png)
@@ -49,6 +50,7 @@
   - [Engine Pod](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/Engine%20Pod.png)
   - [Our Lady of Uptime](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/Our%20Lady%20of%20Uptime.png)
   - [Pavan, Pod Orchestrator](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%206/Pavan,%20Pod%20Orchestrator.png)
+  - [Augustinian Heartbrand](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/Starter%20Pack%207/Augustinian%20Heartbrand.png)
   - [Ashley, Director of Defense](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Ashley,%20Director%20of%20Defense.png)
   - [Cluck University North](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Cluck%20University%20North.png)
   - [Danial, Curling Champion](https://raw.githubusercontent.com/jorgegonzalez/rewst-tcg/main/The%20Canada%20Pack/Danial,%20Curling%20Champion.png)
